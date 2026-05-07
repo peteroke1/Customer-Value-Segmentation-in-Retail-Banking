@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+customer_value_env/
+Dataset/
+.env
+
 # C extensions
 *.so
 
